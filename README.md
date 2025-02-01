@@ -59,3 +59,6 @@ The learned path after the agent is trained will be shown at the end.
 Final Notes
 This project is a simple implementation of the SARSA algorithm for solving a maze. It can be extended to more complex environments and different algorithms, such as Q-learning or Deep Q Networks (DQN).
 Feel free to modify the grid layout, the reward function, or the training parameters to experiment and see how it affects the agent’s learning process.
+
+AUTHOR 
+ELURU POOJITH KUMAR REDDY
